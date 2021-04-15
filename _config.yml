@@ -11,6 +11,7 @@ title                    : "Ioannis Mantas"
 title_separator          : "-"
 name                     : &name "Ioannis Mantas"
 description              : &description "what is this supposed to do?"
+#url                      : http://localhost:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 url                      : https://ioannisman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ioannisman/ioannisman.github.io"
@@ -84,7 +85,7 @@ author:
   name             : |
                       Researcher</br>
                       PhD Candidate
-  avatar           : "ioannis.png"
+  avatar           : "ioannis.jpg"
   #bio              : "Algorithm Engineers \n Problem Solving \n  Mountains & Rivers"
   bio              : |
                       - Algorithm Engineering</br>
@@ -93,7 +94,7 @@ author:
   location         : "Lugano, Switzerland"
   employer         : #"USI"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=1a3YanoAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=1a3YanoAAAAJ"
   email            : "ioannis.mantas@usi.ch"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Main page"
+  - title: "Home"
     url:     
 
   - title: "Publications"
@@ -9,8 +9,8 @@ main:
   - title: "Talks & Teaching"
     url: /talks/    
 
-  - title: "News"
-    url: /teaching/    
+#  - title: "News"
+#    url: /teaching/    
     
   #- title: "Portfolio"
   #  url: /portfolio/
