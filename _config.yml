@@ -80,9 +80,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Researcher PhD Candidate"
+  #name             : "Researcher \n PhD Candidate"
+  name             : |
+                      Researcher</br>
+                      PhD Candidate
   avatar           : "ioannis.png"
-  bio              : "A short bio for my friends"
+  #bio              : "Algorithm Engineers \n Problem Solving \n  Mountains & Rivers"
+  bio              : |
+                      - Algorithm Engineering</br>
+                      - Problem Solving</br>
+                      - Mountains & Rivers
   location         : "Lugano, Switzerland"
   employer         : #"USI"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

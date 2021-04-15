@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Wait wait! I am gonna write some nice stuff soon.
+Wait wait! I am gonna write some nice stuff soon. Can't you see that this site is under construction??
 
 Education
 ======
