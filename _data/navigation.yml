@@ -3,11 +3,17 @@ main:
   - title: "Home"
     url:     
 
+  - title: "Latest news"
+    url: /posts/
+
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks & Teaching"
-    url: /talks/    
+  - title: "Talks"
+    url: /talks/
+
+  - title: "Teaching"
+    url: /teaching/           
 
 #  - title: "News"
 #    url: /teaching/    
