@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <div style="text-align: justify">  
-Born and raised in the beautiful town of Chalkida, I came to study Computer Science, and (strangely enough) to enjoy it.
+Grown up in the beautiful town of Chalkida, I came to study Computer Science, and (strangely enough) to enjoy it.
 So, after completing my undergraduate studies in Athens, and my graduate studies in Nice, I moved to Lugano, in Ticino, the italian-speaking part of Switzerland.
 I am currently pursuing a PhD degree at Università della Svizzera italiana (USI) and I spend most of my time doing research.
 My main research interest lies in algorithm design with a focus on Computational Geometry.
