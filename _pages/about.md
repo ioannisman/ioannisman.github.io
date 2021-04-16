@@ -18,7 +18,7 @@ When I don't work or travel, I stay in Ticino and enjoy either the mountains, so
 <br>
 Below you can find a brief description of my education and work experience.
 There is also a list of my publications, my talks and my teaching activities.
-Oh there is also a page with my latests news.<br>
+Oh there is also a page with my latest news.<br>
 <br>
 </div>
 
