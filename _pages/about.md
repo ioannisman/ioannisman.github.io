@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Ioannis Mantas"
-excerpt: "About me"
+excerpt: "PhD Candidate @ USI"
 author_profile: true
 redirect_from: 
   - /about/
