@@ -12,13 +12,13 @@ redirect_from:
 Born and raised in the beautiful town of Chalkida, I came to study Computer Science, and (strangely enough) to enjoy it.
 So, after completing my undergraduate studies in Athens, and my graduate studies in Nice, I moved to Lugano, in Ticino, the italian-speaking part of Switzerland.
 I am currently pursuing a PhD degree at Università della Svizzera italiana (USI) and I spend most of my time doing research.
-My main research interest lies in algorithm design with focus on Computational Geometry.
-In simple terms I like to find efficient solutions for Computer Science related problems, which usually have some geometric twist.
+My main research interest lies in algorithm design with a focus on Computational Geometry.
+In simple terms, I like to find efficient solutions for Computer Science related problems, which usually have some geometric twist.
 When I don't work or travel, I stay in Ticino and enjoy either the mountains, some spritz or some polenta!<br>
 <br>
 Below you can find a brief description of my education and work experience.
 There is also a list of my publications, my talks and my teaching activites.
-Oh there is also a page with with my latests news.<br>
+Oh there is also a page with my latests news.<br>
 <br>
 </div>
 
