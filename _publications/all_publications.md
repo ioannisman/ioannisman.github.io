@@ -10,9 +10,12 @@ redirect_from:
 All the publications follow the *Theoretical Computer Science convention*, where the authors are listed in alphabetical order.
 There might be some *"overlap"*, e.g., a *(short)* workshop paper might later extend and appear as a *(full)* conference paper.
  -->
+ <div style="text-align: justify">  
 The following is a list of publications which I have co-authored.
 All the publications follow the *Theoretical Computer Science convention*, where the authors are listed in alphabetical order.
-There might be some *"overlap"*, e.g., a *(short)* workshop paper might later extend and appear as a *(full)* conference paper.
+There might be some *"overlap"*, e.g., a workshop paper later extended to a conference paper.
+</div>
+
 
 ### 2021
 - **The Voronoi Diagram of Rotating Rays with applications to Floodlight Illumination**\
@@ -29,7 +32,7 @@ There might be some *"overlap"*, e.g., a *(short)* workshop paper might later ex
 ### 2020
 - **Farthest Color Voronoi Diagrams: Complexity and Algorithms**\
 	<span style="font-variant:small-caps;">14th Latin American Theoretical Informatics Symposium (São Paulo, Brazil)</span>\
-	*with E. Papadopoulou, R. Silveira, and V. Sacristán*
+	*with E. Papadopoulou, V. Sacristán, and R. Silveira*
 - **Certified approximation algorithms for the Fermat point and $k$-ellipses**\
 	<span style="font-variant:small-caps;">36th European Workshop on Computational Geometry (Würzburg, Germany)</span>\
 	*with K. Junginger, E. Papadopoulou, M. Suderland, and C. Yap*
@@ -43,7 +46,7 @@ There might be some *"overlap"*, e.g., a *(short)* workshop paper might later ex
 	*with K. Junginger, and E. Papadopoulou*
 - **Linear-size farthest color Voronoi diagrams: conditions and algorithms**\
 	<span style="font-variant:small-caps;">35th European Workshop on Computational Geometry (Utrecht, The Netherlands)</span>\
-	*with E. Papadopoulou, R. Silveira, and V. Sacristán*
+	*with E. Papadopoulou, V. Sacristán, and R. Silveira*
 
 
 ### 2016

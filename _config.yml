@@ -91,6 +91,13 @@ author:
                       - Algorithm Engineering</br>
                       - Problem Solving</br>
                       - Mountains & Rivers
+  bio2              : |
+                      </br>
+                      </br>
+                      </br>                   
+                      <i>Σὰ βγεῖς στὸν πηγαιμὸ γιὰ τὴν Ἰθάκη, νὰ εὔχεσαι νἆναι μακρὺς ὁ δρόμος, γεμάτος περιπέτειες, γεμάτος γνώσεις.</i></br>
+                      <font color = "Gray"><i>As you set out for Ithaka, hope your road is a long one, full of adventure, full of discovery.</i></font></br> 
+                      <font face = "Comic sans MS" size ="2">Ithaka, Constantine P. Cavafy</font><br />                 
   location         : "Lugano, Switzerland"
   employer         : #"USI"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -113,7 +120,7 @@ author:
   linkedin         : "ioannis-mantas"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
-  soundcloud       :
+  soundcloud       : #"eas"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
