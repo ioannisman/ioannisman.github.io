@@ -12,8 +12,8 @@ There might be some *"overlap"*, e.g., a *(short)* workshop paper might later ex
  -->
  <div style="text-align: justify">  
 The following is a list of publications which I have co-authored.
-All the publications follow the *Theoretical Computer Science convention*, where the authors are listed in alphabetical order.
-There might be some *"overlap"*, e.g., a workshop paper later extended to a conference paper.
+All the publications follow the <i>Theoretical Computer Science convention</i>, where the authors are listed in alphabetical order.
+There might be some <i>"overlap"</i>, e.g., a workshop paper later extended to a conference paper.
 </div>
 
 

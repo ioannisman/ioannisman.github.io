@@ -16,9 +16,9 @@ My main research interest lies in algorithm design with a focus on Computational
 In simple terms, I like to find efficient solutions for Computer Science related problems, which usually have some geometric twist.
 When I don't work or travel, I stay in Ticino and enjoy either the mountains, some spritz or some polenta!<br>
 <br>
-Below you can find a brief description of my education and work experience.
-There is also a list of my publications, my talks and my teaching activities.
-Oh there is also a page with my latest news.<br>
+Following, there is a short description of my education and work experience.
+There is also a list of my <a href="https://ioannisman.github.io/publications/">publications</a>, my <a href="https://ioannisman.github.io/talks/">talks</a> and my <a href="https://ioannisman.github.io/teaching/">teaching activities</a>.
+Oh, you can also find my <a href="https://ioannisman.github.io/news/">latest news</a>.<br>
 <br>
 </div>
 
