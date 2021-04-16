@@ -18,7 +18,7 @@ When I don't work or travel, I stay in Ticino and enjoy either the mountains, so
 <br>
 Following, there is a short description of my education and work experience.
 There is also a list of my <a href="https://ioannisman.github.io/publications/">publications</a>, my <a href="https://ioannisman.github.io/talks/">talks</a> and my <a href="https://ioannisman.github.io/teaching/">teaching activities</a>.
-Oh, you can also find my <a href="https://ioannisman.github.io/news/">latest news</a>.<br>
+Oh, you can also see my <a href="https://ioannisman.github.io/news/">latest news</a>!<br>
 <br>
 </div>
 
