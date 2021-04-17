@@ -12,17 +12,17 @@ The following is a list of talks I have given in conferences and workshops durin
 
 - **The Voronoi Diagram of Rotating Rays with applications to Floodlight Illumination**\
 	<span style="font-variant:small-caps;">37th European Workshop on Computational Geometry</span>\
-	*7/4/2021 @ St. Petersburg, Russia (virtual due to COVID-19)*
+	*7/4/2021 @ St. Petersburg, Russia (virtually due to COVID-19)*
 
 
 - **New Variants of Perfect Non-crossing Matchings**\
 	<span style="font-variant:small-caps;">7th International Conference on Algorithms and Discrete Applied Mathematics</span>\
-	*11/2/2021 @ Punjab, India (virtual due to COVID-19)*\
+	*11/2/2021 @ Punjab, India (virtually due to COVID-19)*\
 	Received the "Springer Best Student Presentation Award"
 
 - **Farthest Color Voronoi Diagrams: Complexity and Algorithms**\
 	<span style="font-variant:small-caps;">14th Latin American Theoretical Informatics Symposium</span>\
-	*6/1/2021 @ São Paulo, Brazil (virtual due to COVID-19)*
+	*6/1/2021 @ São Paulo, Brazil (virtually due to COVID-19)*
 
 - **Linear-size farthest color Voronoi diagrams: conditions and algorithms**\
 	<span style="font-variant:small-caps;">35th European Workshop on Computational Geometry</span>\
