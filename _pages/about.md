@@ -45,4 +45,4 @@ Education
 	<span style="font-variant:small-caps;">Master of Science (MSc) in Ubiquitous Networking and Computing</span>, 2015-2016
 - 	**National Kapodistrian University of Athens (UoA)**\
 	**Department of Informatics and Telecommunications, Athens, Greece**\
-	<span style="font-variant:small-caps;">Ptychion (4-year BSc.) in Informatics and Telecommunications</span>, 2011-2015
+	<span style="font-variant:small-caps;">Ptychion (4-year BSc) in Informatics and Telecommunications</span>, 2011-2015
