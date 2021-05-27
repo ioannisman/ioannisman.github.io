@@ -22,7 +22,7 @@ There might be some <i>"overlap"</i>, e.g., a workshop paper later extended to a
 	<span style="font-variant:small-caps;">37th European Workshop on Computational Geometry (St. Petersburg, Russia)</span>\
 	*with C. Alegría, E. Papadopoulou, M. Savić, H. Schrezenmaier, C. Seara, and M. Suderland*
 - **New Variants of Perfect Non-crossing Matchings**\
-	<span style="font-variant:small-caps;">7th International Conference on Algorithms and Discrete Applied Mathematics (Punjab, India)</span>\
+	<span style="font-variant:small-caps;">7th International Conference on Algorithms and Discrete Applied Mathematics (Ropar, India)</span>\
 	*with M. Savić, and H. Schrezenmaier*
 - **On selecting a fraction of leaves with disjoint neighborhoods in a plane tree**\
 	<span style="font-variant:small-caps;">Discrete Applied Mathematics (Elsevier)</span>\
@@ -42,7 +42,7 @@ There might be some <i>"overlap"</i>, e.g., a workshop paper later extended to a
 
 ### 2019
 - **On Selecting Leaves with Disjoint Neighborhoods in Embedded Trees**\
-	<span style="font-variant:small-caps;">5th International Conference on Algorithms and Discrete Applied Mathematics (Kolkata, India)</span>\
+	<span style="font-variant:small-caps;">5th International Conference on Algorithms and Discrete Applied Mathematics (Kharagpur, India)</span>\
 	*with K. Junginger, and E. Papadopoulou*
 - **Linear-size farthest color Voronoi diagrams: conditions and algorithms**\
 	<span style="font-variant:small-caps;">35th European Workshop on Computational Geometry (Utrecht, The Netherlands)</span>\
