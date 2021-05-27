@@ -17,7 +17,7 @@ The following is a list of talks I have given in conferences and workshops durin
 
 - **New Variants of Perfect Non-crossing Matchings**\
 	<span style="font-variant:small-caps;">7th International Conference on Algorithms and Discrete Applied Mathematics</span>\
-	*11/2/2021 @ Punjab, India (virtually due to COVID-19)*\
+	*11/2/2021 @ Ropar, India (virtually due to COVID-19)*\
 	Received the "Springer Best Student Presentation Award"\
 	<a href="https://ioannisman.github.io/files/matchings_caldam.pdf">[slides]</a>
 
@@ -33,5 +33,5 @@ The following is a list of talks I have given in conferences and workshops durin
 
 - **On Selecting Leaves with Disjoint Neighborhoods in Embedded Trees**\
 	<span style="font-variant:small-caps;">5th International Conference on Algorithms and Discrete Applied Mathematics</span>\
- 	*14/2/2019 @ Kolkata, India*\
+ 	*14/2/2019 @ Kharagpur, India*\
  	<a href="https://ioannisman.github.io/files/combinatorial_caldam.pdf">[slides]</a>	
