@@ -28,7 +28,7 @@ The following is a list of talks I have given in conferences and workshops durin
 
 - **Linear-size farthest color Voronoi diagrams: conditions and algorithms**\
 	<span style="font-variant:small-caps;">35th European Workshop on Computational Geometry</span>\
-	*19/3/2019 @ Utrecht, The Netherlands*\		
+	*19/3/2019 @ Utrecht, The Netherlands*\
 	<a href="https://ioannisman.github.io/files/fcvd_eurocg.pdf">[slides]</a>
 
 - **On Selecting Leaves with Disjoint Neighborhoods in Embedded Trees**\
