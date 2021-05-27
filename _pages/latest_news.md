@@ -8,7 +8,8 @@ redirect_from:
 
 
 Here are some news (during the last 365 days) that are worth mentioning.
-
+- ***27/2/2021***\
+	Our papers *"The Voronoi Diagram of Rotating Rays with applications to Floodlight Illumination"* and *"New Variants of Perfect Non-crossing Matchings"* got accepted for presentation in the <span style="font-variant:small-caps;">"XIX Spanish Meeting on Computational Geometry"</span> taking place in Madrid, Spain.
 - ***7-9/4/2021***\
 	I (virtually) attended the <span style="font-variant:small-caps;">"37th European Workshop on Computational Geometry"</span> taking place in St. Petersburg, Russia, and I presented our paper *"The Voronoi Diagram of Rotating Rays with applications to Floodlight Illumination"*. 
 - ***27/2/2021***\
