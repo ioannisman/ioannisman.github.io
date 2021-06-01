@@ -43,7 +43,7 @@ There might be some <i>"overlap"</i>, e.g., a workshop paper later extended to a
 	<a href="https://ioannisman.github.io/files/paper_fermat_eurocg.pdf">[paper]</a>	
 - **The Very best of Perfect Non-crossing Matchings**\
 	<span style="font-variant:small-caps;">36th European Workshop on Computational Geometry (Würzburg, Germany)</span>\
-	*with M. Savić, and H. Schrezenmaier*
+	*with M. Savić, and H. Schrezenmaier*\
 	<a href="https://ioannisman.github.io/files/paper_matchings_eurocg.pdf">[paper]</a>	
 
 ### 2019
