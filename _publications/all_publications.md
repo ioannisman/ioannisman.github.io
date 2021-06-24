@@ -21,10 +21,9 @@ There might be some <i>"overlap"</i>, e.g., a workshop paper later extended to a
 - **The Voronoi Diagram of Rotating Rays with applications to Floodlight Illumination**\
 	<span style="font-variant:small-caps;">29th European Symposium on Algorithms (Lisbon, Portugal)</span>\
 	*with C. Alegría, E. Papadopoulou, M. Savić, H. Schrezenmaier, C. Seara, and M. Suderland*\
-	<a href="https://ioannisman.github.io/files/paper_rotational_eurocg.pdf">[paper]</a>	
 - **Certified approximation algorithms for the Fermat point and $k$-ellipses**\
 	<span style="font-variant:small-caps;">29th European Symposium on Algorithms (Lisbon, Portugal)</span>\
-	*with K. Junginger, E. Papadopoulou, M. Suderland, and C. Yap*\
+	*with K. Junginger, E. Papadopoulou, M. Suderland, and C. Yap**\
 - **The Voronoi Diagram of Rotating Rays with applications to Floodlight Illumination**\
 	<span style="font-variant:small-caps;">37th European Workshop on Computational Geometry (St. Petersburg, Russia)</span>\
 	*with C. Alegría, E. Papadopoulou, M. Savić, H. Schrezenmaier, C. Seara, and M. Suderland*\
