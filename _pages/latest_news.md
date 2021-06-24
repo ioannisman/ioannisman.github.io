@@ -9,7 +9,7 @@ redirect_from:
 
 Here are some news (during the last 365 days) that are worth mentioning.
 - ***23/6/2021***\
-	Our papers *"The Voronoi Diagram of Rotating Rays with applications to Floodlight Illumination"* and *"Certified Approximation Algorithms for the Fermat Point and n-Ellipses"* got accepted in the <span style="font-variant:small-caps;">"29th European Symposium on Algorithms 2021"</span> taking place in Lisbon, Portugal.
+	Our papers *"The Voronoi Diagram of Rotating Rays with applications to Floodlight Illumination"* and *"Certified Approximation Algorithms for the Fermat Point and n-Ellipses"* got accepted in the <span style="font-variant:small-caps;">"29th European Symposium on Algorithms"</span> taking place in Lisbon, Portugal.
 - ***7-11/6/2021***\
 	I (virtually) attended the <span style="font-variant:small-caps;">"Computational Geometry Week 2021"</span>  taking place in Buffalo, USA.
 - ***21/5/2021***\
