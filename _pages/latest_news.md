@@ -8,6 +8,8 @@ redirect_from:
 
 
 Here are some news (during the last 365 days) that are worth mentioning.
+- ***7-9/4/2021***\
+	I (virtually) attended the <span style="font-variant:small-caps;">"XIX Spanish Meeting on Computational Geometry"</span> taking place in Madrid, Spain, and I presented our papers *"The Voronoi Diagram of Rotating Rays with applications to Floodlight Illumination"* and *"New Variants of Perfect Non-crossing Matchings"*. 
 - ***23/6/2021***\
 	Our papers *"The Voronoi Diagram of Rotating Rays with applications to Floodlight Illumination"* and *"Certified Approximation Algorithms for the Fermat Point and n-Ellipses"* got accepted in the <span style="font-variant:small-caps;">"29th European Symposium on Algorithms"</span> taking place in Lisbon, Portugal.
 - ***7-11/6/2021***\
