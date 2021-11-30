@@ -14,7 +14,7 @@ So, after completing my undergraduate studies in Athens, and my graduate studies
 I am currently pursuing a PhD degree at Università della Svizzera italiana (USI), in the <a href="http://compgeom.inf.usi.ch">group of Prof. Papadopoulou</a>, and I spend most of my time doing research.
 My main research interest lies in algorithm design with a focus on Computational Geometry.
 In simple terms, I like to find efficient solutions for Computer Science related problems, which usually have some geometric twist.
-When I don't work or travel, you will find me around Ticino enjoying the mountains, some spritz or some polenta!<br>
+When I don't work or travel, you will find me around Ticino enjoying the mountains, some wine or some polenta!<br>
 <!-- I stay in Ticino and enjoy either the mountains, some spritz or some polenta!<br> -->
 <br>
 Following, there is a short description of my education and work experience.
