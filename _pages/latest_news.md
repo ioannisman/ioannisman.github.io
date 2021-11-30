@@ -9,7 +9,7 @@ redirect_from:
 
 Here are some news (during the last 365 days) that are worth mentioning.
 - ***24/11/2021***\
-	Great news! My dissertation defense has been scheduled to take place on Wednesday 12/1/2002 at 10:30.
+	Great news! My dissertation defense has been scheduled to take place on Wednesday 12/1/2022 at 10:30.
 	It is open for attendance both in person and online (link and location to be announced).
 - ***6-10/9/2021***\
 	I (virtually) attended the <span style="font-variant:small-caps;">"9th European Symposium on Algorithms"</span> (part of ALGO 2021) taking place in Lisbon, Portugal, and I presented our paper *"The Voronoi Diagram of Rotating Rays with applications to Floodlight Illumination"*.
