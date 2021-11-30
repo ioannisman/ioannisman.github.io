@@ -8,9 +8,12 @@ redirect_from:
 
 
 Here are some news (during the last 365 days) that are worth mentioning.
+- ***24/11/2021***\
+	Great news! My dissertation defense has been scheduled to take place on Wednesday 12/1/2002 at 10:30.
+	It is open for attendance both in person and online (link and location to be announced).
 - ***6-10/9/2021***\
 	I (virtually) attended the <span style="font-variant:small-caps;">"9th European Symposium on Algorithms"</span> (part of ALGO 2021) taking place in Lisbon, Portugal, and I presented our paper *"The Voronoi Diagram of Rotating Rays with applications to Floodlight Illumination"*.
-	Our paper *"Certified Approximation Algorithms for the Fermat Point and n-Ellipses"* was also presented there.. 
+	Our paper *"Certified Approximation Algorithms for the Fermat Point and n-Ellipses"* was also presented there. 
 - ***5-7/7/2021***\
 	I (virtually) attended the <span style="font-variant:small-caps;">"XIX Spanish Meeting on Computational Geometry"</span> taking place in Madrid, Spain, and I presented our papers *"The Voronoi Diagram of Rotating Rays with applications to Floodlight Illumination"* and *"New Variants of Perfect Non-crossing Matchings"*. 
 - ***23/6/2021***\
@@ -29,8 +32,8 @@ Here are some news (during the last 365 days) that are worth mentioning.
 	Our paper *"On selecting a fraction of leaves with disjoint neighborhoods in a plane tree"* got accepted for publication in the journal <span style="font-variant:small-caps;">"Discrete Applied Mathematics"</span> by Elsevier.
 - ***5-8/1/2021***\
 	I (virtually) attended the <span style="font-variant:small-caps;">"14th Latin American Theoretical Informatics Symposium"</span>  taking place in São Paulo, Brazil, and I presented our paper *"Farthest Color Voronoi Diagrams: Complexity and Algorithms"*.
-- ***12/11/2020***\
-	Our paper *"New Variants of Perfect Non-crossing Matchings"* got accepted in the <span style="font-variant:small-caps;">"7th International Conference on Algorithms and Discrete Applied Mathematics"</span>  taking place in Ropar, India
+<!---- ***12/11/2020***\
+	Our paper *"New Variants of Perfect Non-crossing Matchings"* got accepted in the <span style="font-variant:small-caps;">"7th International Conference on Algorithms and Discrete Applied Mathematics"</span>  taking place in Ropar, India -->
 <!--- ***8-11/9/2020***\
 	I attended the <span style="font-variant:small-caps;">Voronoi++</span> project meeting taking place somewhere in Styria, Austria, and I gave a talk *"On Color Voronoi Diagrams"*.	-->
 <!-- - ***22-26/6/2020***\
