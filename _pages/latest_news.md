@@ -9,8 +9,8 @@ redirect_from:
 
 Here are some news (during the last 365 days) that are worth mentioning.
 - ***24/11/2021***\
-	Great news! My dissertation defense has been scheduled to take place on Wednesday 12/1/2022 at 10:30.
-	It is open for attendance both in person and online (link and location to be announced).
+	Great news! My dissertation defense has been scheduled to take place on Wednesday 12/1/2022 at 10:30 (UTC +01:00).
+	It is open for any to attend both in person (USI Campus EST, room D1.13) and online (<a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTMwZjdlNzUtM2RmNS00OTNkLTkyZmUtYjQ2MWZjZTFhNzg3%40thread.v2/0?context=%7b%22Tid%22%3a%2295bdc5ac-afb5-4881-801b-3874f365cd6f%22%2c%22Oid%22%3a%22a1da9dcf-1ff5-4846-a820-5735a9bd05ce%22%7d">MS teams link</a>!<br>). More details can be found <a href="https://www.inf.usi.ch/en/feeds/10199">here</a>!<br>.
 - ***6-10/9/2021***\
 	I (virtually) attended the <span style="font-variant:small-caps;">"9th European Symposium on Algorithms"</span> (part of ALGO 2021) taking place in Lisbon, Portugal, and I presented our paper *"The Voronoi Diagram of Rotating Rays with applications to Floodlight Illumination"*.
 	Our paper *"Certified Approximation Algorithms for the Fermat Point and n-Ellipses"* was also presented there. 
@@ -30,8 +30,8 @@ Here are some news (during the last 365 days) that are worth mentioning.
 	I (virtually) attended the <span style="font-variant:small-caps;">"7th International Conference on Algorithms and Discrete Applied Mathematics"</span>  taking place in Ropar, India, and I presented our paper *"New Variants of Perfect Non-crossing Matchings"*. My presentation received the *Springer Best Student Presentation Award*. 
 - ***2/2/2021***\
 	Our paper *"On selecting a fraction of leaves with disjoint neighborhoods in a plane tree"* got accepted for publication in the journal <span style="font-variant:small-caps;">"Discrete Applied Mathematics"</span> by Elsevier.
-- ***5-8/1/2021***\
-	I (virtually) attended the <span style="font-variant:small-caps;">"14th Latin American Theoretical Informatics Symposium"</span>  taking place in São Paulo, Brazil, and I presented our paper *"Farthest Color Voronoi Diagrams: Complexity and Algorithms"*.
+<!----- ***5-8/1/2021***\
+	I (virtually) attended the <span style="font-variant:small-caps;">"14th Latin American Theoretical Informatics Symposium"</span>  taking place in São Paulo, Brazil, and I presented our paper *"Farthest Color Voronoi Diagrams: Complexity and Algorithms"*. -->
 <!---- ***12/11/2020***\
 	Our paper *"New Variants of Perfect Non-crossing Matchings"* got accepted in the <span style="font-variant:small-caps;">"7th International Conference on Algorithms and Discrete Applied Mathematics"</span>  taking place in Ropar, India -->
 <!--- ***8-11/9/2020***\
