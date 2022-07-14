@@ -8,6 +8,13 @@ redirect_from:
 
 
 Here are some news (during the last 365 days) that are worth mentioning.
+- ***14/3/2022***\
+	Our paper *"Subdivision Methods for Sum-Of-Distances Problems: Fermat-Weber Point, n-Ellipses and the Min-Sum Cluster Voronoi Diagram"* got accepted in the <span style="font-variant:small-caps;">"38th International Symposium on Computational Geometry: Media Exposition"</span> taking place in Berlin, Germany.
+- ***18/1/2022***\
+	I enrolled in the Hellenic Army to fullfil my military obligations compulsory for all Greek nationals.
+- ***12/1/2022***\
+	I successfully defended my PhD dissertation .*"The Voronoi Diagram of Rotating Rays with applications to Floodlight Illumination"*.
+	Our paper *"Certified Approximation Algorithms for the Fermat Point and n-Ellipses"* was also presented there. 
 - ***24/11/2021***\
 	Great news! My dissertation defense has been scheduled to take place on Wednesday 12/1/2022 at 10:30 (UTC +01:00).
 	It is open for any to attend both in person (USI Campus EST, room D1.13) and online (<a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTMwZjdlNzUtM2RmNS00OTNkLTkyZmUtYjQ2MWZjZTFhNzg3%40thread.v2/0?context=%7b%22Tid%22%3a%2295bdc5ac-afb5-4881-801b-3874f365cd6f%22%2c%22Oid%22%3a%22a1da9dcf-1ff5-4846-a820-5735a9bd05ce%22%7d">MS teams link</a>). More details can be found <a href="https://www.inf.usi.ch/en/feeds/10199">here</a>.
