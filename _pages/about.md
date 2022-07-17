@@ -23,13 +23,13 @@ After the PhD, I joined the Hellenic Army to fulfill my military obligations, co
 I am going to be serving in the Army until the coming September, when I am planning to set off for new adventures.
 
 <br>
-My main interest lies in algorithm design with a focus on Computational Geometry.
-In simple terms, I like to find efficient solutions for Computer Science related problems, which usually have some geometric twist.
+Research-wise my main interest lies in algorithm design, that is, to come up with efficient solutions for Computer Science related problems.
+I am particularly keen on problems having some geometric twist and optimization problems.
 <br>
 
 <br>
 Following, there is a short description of my education and work experience.
-There is also a list of my <a href="https://ioannisman.github.io/publications/">publications</a>, and my <a href="https://ioannisman.github.io/talks/">talks</a> and <a href="https://ioannisman.github.io/teaching/">teaching activities</a> related with my stay at USI.
+There is also a list of my <a href="https://ioannisman.github.io/publications/">publications</a>, and my <a href="https://ioannisman.github.io/talks/">talks</a> and <a href="https://ioannisman.github.io/teaching/">teaching activities</a> related with my stay as a PhD candidate at USI.
 Oh, you can also read my <a href="https://ioannisman.github.io/news/">latest news</a> which I try to keep up to date!<br>
 <br>
 </div>
