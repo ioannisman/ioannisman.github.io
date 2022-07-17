@@ -19,7 +19,7 @@ There might be some <i>"overlap"</i>, e.g., a workshop paper later extended to a
 
 
 ### 2022
-- **CSubdivision Methods for Sum-Of-Distances Problems: Fermat-Weber Point, n-Ellipses and the Min-Sum Cluster Voronoi Diagram**\
+- **Subdivision Methods for Sum-Of-Distances Problems: Fermat-Weber Point, n-Ellipses and the Min-Sum Cluster Voronoi Diagram**\
 	<span style="font-variant:small-caps;">38th International Symposium on Computational Geometry: Media Exposition (Berlin, Germany)</span>\
 	*E. Papadopoulou, M. Suderland, and C. Yap*\
 	<a href="https://drops.dagstuhl.de/opus/volltexte/2022/16077/pdf/LIPIcs-SoCG-2022-69.pdf">[paper]</a>	

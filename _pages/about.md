@@ -22,8 +22,10 @@ There I spent a few years doing research at Università della Svizzera italiana 
 After the PhD, I joined the Hellenic Army to fulfill my military obligations, compulsory for all Greek nationals.
 I am going to be serving in the Army until the coming September, when I am planning to set off for new adventures.
 
+<br>
 My main interest lies in algorithm design with a focus on Computational Geometry.
 In simple terms, I like to find efficient solutions for Computer Science related problems, which usually have some geometric twist.
+<br>
 
 <br>
 Following, there is a short description of my education and work experience.
