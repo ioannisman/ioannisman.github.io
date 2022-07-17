@@ -39,7 +39,8 @@ Oh, you can also read my <a href="https://ioannisman.github.io/news/">latest new
 Work experience
 ======
 - 	**Hellenic Army, Greece & Cyprus**\
-  	<span style="font-variant:small-caps;">Soldier</span>\
+  	<span style="font-variant:small-caps;">Special Operation Forces Soldier</span>\
+  	February 2022 - September 2022
 - 	**Università della Svizzera italiana (USI), Lugano, Switzerland**\
   	<span style="font-variant:small-caps;">Research and Teaching Assistant</span>\
 	October 2016 - January 2022

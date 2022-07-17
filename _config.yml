@@ -82,8 +82,8 @@ analytics:
 # Site Author
 author:
   #name             : "Researcher \n PhD Candidate"
-  name              : "PhD, Computer Scientist"
-  #name             : |
+  name              : "Computer Scientist"
+  #nsame             : |
   #                    Researcher</br>
   #                    PhD Candidate
   avatar           : "ioannis.jpg"
