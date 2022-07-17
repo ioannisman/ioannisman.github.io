@@ -82,9 +82,10 @@ analytics:
 # Site Author
 author:
   #name             : "Researcher \n PhD Candidate"
-  name             : |
-                      Researcher</br>
-                      PhD Candidate
+  name              : "Computer Scientist PhD"
+  #name             : |
+  #                    Researcher</br>
+  #                    PhD Candidate
   avatar           : "ioannis.jpg"
   #bio              : "Algorithm Engineers \n Problem Solving \n  Mountains & Rivers"
   bio              : |
