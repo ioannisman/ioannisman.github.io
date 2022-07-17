@@ -9,17 +9,26 @@ redirect_from:
 ---
 
 <div style="text-align: justify">  
+<!-- 	
 Grown up in the beautiful town of Chalkida, I came to study Computer Science, and oddly enough (?) to enjoy it.
 So, after completing my undergraduate studies in Athens, and my graduate studies in Nice, I moved to Lugano, in Ticino, the italian-speaking part of Switzerland.
 I am currently pursuing a PhD degree at Università della Svizzera italiana (USI), in the <a href="http://compgeom.inf.usi.ch">group of Prof. Papadopoulou</a>, and I spend most of my time doing research.
 My main research interest lies in algorithm design with a focus on Computational Geometry.
 In simple terms, I like to find efficient solutions for Computer Science related problems, which usually have some geometric twist.
-When I don't work or travel, you will find me around Ticino enjoying the mountains, some wine or some polenta!<br>
-<!-- I stay in Ticino and enjoy either the mountains, some spritz or some polenta!<br> -->
+When I don't work or travel, you will find me around Ticino enjoying the mountains, some wine or some polenta!<br>-->
+Grown up in the beautiful town of Chalkida, I came to study Computer Science, and to somehow enjoy it.
+So, after completing my undergraduate studies in Athens, and my graduate studies in Nice, I moved to Lugano, in Ticino, the italian-speaking part of Switzerland.
+There I spent a few years doing research at Università della Svizzera italiana (USI), for which I was recently awarded a PhD degree.
+After the PhD, I joined the Hellenic Army to fulfill my military obligations, compulsory for all Greek nationals.
+I am going to be serving in the Army until the coming September, when I am planning to set off for new adventures.
+
+My main interest lies in algorithm design with a focus on Computational Geometry.
+In simple terms, I like to find efficient solutions for Computer Science related problems, which usually have some geometric twist.
+
 <br>
 Following, there is a short description of my education and work experience.
-There is also a list of my <a href="https://ioannisman.github.io/publications/">publications</a>, my <a href="https://ioannisman.github.io/talks/">talks</a> and my <a href="https://ioannisman.github.io/teaching/">teaching activities</a>.
-Oh, you can also read my <a href="https://ioannisman.github.io/news/">latest news</a>!<br>
+There is also a list of my <a href="https://ioannisman.github.io/publications/">publications</a>, and my <a href="https://ioannisman.github.io/talks/">talks</a> and <a href="https://ioannisman.github.io/teaching/">teaching activities</a> related with my stay at USI.
+Oh, you can also read my <a href="https://ioannisman.github.io/news/">latest news</a> which I try to keep up to date!<br>
 <br>
 </div>
 
@@ -27,6 +36,8 @@ Oh, you can also read my <a href="https://ioannisman.github.io/news/">latest new
 
 Work experience
 ======
+- 	**Hellenic Army, Greece & Cyprus**\
+  	<span style="font-variant:small-caps;">Soldier</span>\
 - 	**Università della Svizzera italiana (USI), Lugano, Switzerland**\
   	<span style="font-variant:small-caps;">Research and Teaching Assistant</span>\
 	October 2016 - January 2022
