@@ -11,7 +11,7 @@ Here are some of my latest news that are worth mentioning.
 - ***14/3/2022***\
 	Our paper *"Subdivision Methods for Sum-Of-Distances Problems: Fermat-Weber Point, n-Ellipses and the Min-Sum Cluster Voronoi Diagram"* got accepted in the <span style="font-variant:small-caps;">"38th International Symposium on Computational Geometry: Media Exposition"</span> taking place in Berlin, Germany.
 - ***18/1/2022***\
-	I joined the Hellenic Army to fullfil my military obligations, compulsory for all Greek nationals.
+	I joined the Hellenic Army, as a soldier in the Special Operation Forces, to fullfil my military obligations, compulsory for all Greek nationals.
 - ***12/1/2022***\
 	I successfully defended my PhD dissertation .*"The Voronoi Diagram of Rotating Rays with applications to Floodlight Illumination"*.
 	Our paper *"Certified Approximation Algorithms for the Fermat Point and n-Ellipses"* was also presented there. 
