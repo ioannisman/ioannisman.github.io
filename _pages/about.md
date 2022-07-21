@@ -24,7 +24,7 @@ I am going to be serving in the Army until the coming September, when I am plann
 
 <br>
 Research-wise my main interest lies in algorithm design, that is, to come up with efficient solutions for Computer Science related problems.
-I am particularly keen on problems having some geometric twist and on optimization problems.
+I am particularly keen on problems having a geometric twist and on optimization problems.
 Apart from designing algorithms, I enjoy hiking, kayaking and traveling in general.
 <br>
 
