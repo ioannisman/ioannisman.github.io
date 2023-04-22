@@ -39,9 +39,12 @@ You can also read my <a href="https://ioannisman.github.io/news/">latest news</a
 
 Work experience
 ======
+- 	**Leica Geosystems part of Hexagon, Switzerland**\
+  	<span style="font-variant:small-caps;">R&D Software Engineer</span>\
+  	Decemeber 2022 - ongoing
 - 	**Hellenic Army, Greece & Cyprus**\
   	<span style="font-variant:small-caps;">Special Operation Forces Soldier</span>\
-  	February 2022 - September 2022
+  	February 2022 - October 2022
 - 	**Università della Svizzera italiana (USI), Lugano, Switzerland**\
   	<span style="font-variant:small-caps;">Research and Teaching Assistant</span>\
 	October 2016 - January 2022
