@@ -19,7 +19,7 @@ When I don't work or travel, you will find me around Ticino enjoying the mountai
 Grown up in the beautiful town of Chalkida, I came to study Computer Science and to actually become passionate about it.
 So, after completing my undergraduate studies in Athens, and my graduate studies in Nice, I moved to Lugano, in Ticino, Switzerland.
 There I spent a few years doing research at Università della Svizzera italiana (USI), for which I was awarded a PhD degree.
-Afterwards, I took as small break, and joined the Hellenic Army to fulfill my military obligations, compulsory for all Greek nationals.
+Afterwards, I took as small break and joined the Hellenic Army to fulfill my military obligations, compulsory for all Greek nationals.
 Lately, I moved to the Rhine Valley, in the canton of St. Gallen, Switzerland, where I am working as an R&D Software Engineer at Leica Geosystems, part of Hexagon.
 
 <br>
