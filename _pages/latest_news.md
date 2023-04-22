@@ -11,7 +11,7 @@ Here are some of my latest news that are worth mentioning.
 - ***1/12/2022***\
 	I am exited to start a new position as an R&D Software Engineer in <a href="https://leica-geosystems.com">Leica Geosystems</a> part of <a href="https://hexagon.com">Hexagon</a>. 
 - ***28/10/2022***\
-	My PhD thesis titled *"Problems on Planar Voronoi Diagrams"* is published. You can download it <a href="https://susi.usi.ch/usi/documents/320920">here</a>.
+	My PhD thesis titled *"Problems on Planar Voronoi Diagrams"* is published. You can download it <a href="https://susi.usi.ch/documents/320920/files/2022INF003.pdf">here</a>.
 - ***14/3/2022***\
 	Our paper *"Subdivision Methods for Sum-Of-Distances Problems: Fermat-Weber Point, n-Ellipses and the Min-Sum Cluster Voronoi Diagram"* got accepted in the <span style="font-variant:small-caps;">"38th International Symposium on Computational Geometry: Media Exposition"</span> taking place in Berlin, Germany.
 - ***18/1/2022***\
