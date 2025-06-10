@@ -81,7 +81,7 @@ analytics:
 
 # Site Author
 author:
-  name              : "Software Engineer, PhD"
+  name              : "R&D Software Engineer, PhD"
   avatar           : "ioannis.jpg"
   bio              : |
                       - Software Engineering</br>
@@ -90,10 +90,10 @@ author:
   bio2              : |
                       </br>
                       </br>
-                      </br>                   
+                      </br>
                       <i>Σὰ βγεῖς στὸν πηγαιμὸ γιὰ τὴν Ἰθάκη, νὰ εὔχεσαι νἆναι μακρὺς ὁ δρόμος, γεμάτος περιπέτειες, γεμάτος γνώσεις.</i></br>
-                      <font color = "Gray"><i>As you set out for Ithaka, hope your road is a long one, full of adventure, full of discovery.</i></font></br> 
-                      <font face = "Comic sans MS" size ="2">Ithaka, Constantine P. Cavafy</font><br />                 
+                      <font color = "Gray"><i>As you set out for Ithaka, hope your road is a long one, full of adventure, full of discovery.</i></font></br>
+                      <font face = "Comic sans MS" size ="2">Ithaka, Constantine P. Cavafy</font><br />
   location         : "St. Gallen, Switzerland"
   employer         : #"USI"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

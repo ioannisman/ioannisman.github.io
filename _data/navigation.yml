@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Home"
-    url:     
+    url:
 
   - title: "Publications"
     url: /publications/
@@ -16,16 +16,16 @@ main:
     url: /posts/
 
 #  - title: "News"
-#    url: /teaching/    
-    
+#    url: /teaching/
+
   #- title: "Portfolio"
   #  url: /portfolio/
-    
+
   #- title: "CV"
   #  url: /cv/
 
   #- title: "Et Cetera"
   #  url: /year-archive/
-    
+
   #- title: "Guide"
    # url: /markdown/

@@ -8,15 +8,24 @@ redirect_from:
 
 Here are some of my latest news that are worth mentioning.
 
+
+## 2025
+- ***06/06/2024***
+	The paper <a href="https://link.springer.com/article/10.1007/s00453-025-01311-1">*"The Farthest Color Voronoi Diagram in the Plane"*</a> has been published.
+- ***09/04/2025***
+	Our paper *"The Farthest Color Voronoi Diagram in the Plane"* got accepted for publication in the journal <span style="font-variant:small-caps;">"Algorithmica"</span> by Springer.
+
+
+## 2024
+- ***30/01/2024***
+	The paper <a href="https://www.sciencedirect.com/science/article/abs/pii/S0166218X23003608">*"New variants of Perfect Non-crossing Matchings"*</a> has been published.
+
+
 ## 2023
-- ***1/12/2023***
-	I am exited to start a new position as an R&D Software Engineer in <a href="https://leica-geosystems.com">Leica Geosystems</a> part of <a href="https://hexagon.com">Hexagon</a>.
+- ***17/09/2023***
+	Our paper *"New variants of Perfect Non-crossing Matchings"* got accepted for publication in the journal <span style="font-variant:small-caps;">"Discrete Applied Mathematics"</span> by Elsevier.
 
-- ***28/10/2023***
-	My PhD thesis titled *"Problems on Planar Voronoi Diagrams"* is published. You can download it <a href="https://susi.usi.ch/documents/320920/files/2022INF003.pdf">here</a>.
 
-- ***14/3/2023***
-	Our paper *"Subdivision Methods for Sum-Of-Distances Problems: Fermat-Weber Point, n-Ellipses and the Min-Sum Cluster Voronoi Diagram"* got accepted in the <span style="font-variant:small-caps;">"38th International Symposium on Computational Geometry: Media Exposition"</span> taking place in Berlin, Germany.
 
 <details markdown="1">
 <summary>Archived News</summary>
@@ -30,11 +39,14 @@ Here are some of my latest news that are worth mentioning.
 - ***28/10/2022***
 	My PhD thesis titled *"Problems on Planar Voronoi Diagrams"* is published. You can download it <a href="https://susi.usi.ch/documents/320920/files/2022INF003.pdf">here</a>.
 
+- ***15/10/2022***
+	The paper <a href="https://www.sciencedirect.com/science/article/abs/pii/S0166218X21000500">*"On selecting a fraction of leaves with disjoint neighborhoods in a plane tree"*</a> has been published.
+
 - ***14/3/2022***
 	Our paper *"Subdivision Methods for Sum-Of-Distances Problems: Fermat-Weber Point, n-Ellipses and the Min-Sum Cluster Voronoi Diagram"* got accepted in the <span style="font-variant:small-caps;">"38th International Symposium on Computational Geometry: Media Exposition"</span> taking place in Berlin, Germany.
 
 - ***18/1/2022***
-	I joined the Hellenic Army, as a soldier in the Special Operation Forces, to fullfil my military obligations, compulsory for all Greek nationals.
+	I joined the Hellenic Army for 9 months to fullfil my military obligations, compulsory for all Greek nationals.
 
 - ***12/1/2022***
 	I successfully defended my PhD dissertation titled *"Problems on Planar Voronoi Diagrams"*.
