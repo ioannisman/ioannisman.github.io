@@ -3,13 +3,13 @@ permalink: /
 title: "Ioannis Mantas"
 excerpt: "Computer Scientist, PhD"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-<div style="text-align: justify">  
-<!-- 	
+<div style="text-align: justify">
+<!--
 Grown up in the beautiful town of Chalkida, I came to study Computer Science, and oddly enough (?) to enjoy it.
 So, after completing my undergraduate studies in Athens, and my graduate studies in Nice, I moved to Lugano, in Ticino, the italian-speaking part of Switzerland.
 I am currently pursuing a PhD degree at Università della Svizzera italiana (USI), in the <a href="http://compgeom.inf.usi.ch">group of Prof. Papadopoulou</a>, and I spend most of my time doing research.
@@ -41,7 +41,7 @@ Work experience
 ======
 - 	**Leica Geosystems part of Hexagon, Switzerland**\
   	<span style="font-variant:small-caps;">R&D Software Engineer</span>\
-  	Decemeber 2022 - ongoing
+  	Decemeber 2022 - April 2025
 - 	**Hellenic Army, Greece & Cyprus**\
   	<span style="font-variant:small-caps;">Special Operation Forces Soldier</span>\
   	February 2022 - October 2022
