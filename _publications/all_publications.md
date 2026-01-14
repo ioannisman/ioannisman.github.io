@@ -6,27 +6,30 @@ redirect_from:
   - /publications.html
 ---
 
-<!-- The following is a list of publications which I have co-authored, and were presented in journals, conferences, workshops, etc.
-All the publications follow the *Theoretical Computer Science convention*, where the authors are listed in alphabetical order.
-There might be some *"overlap"*, e.g., a *(short)* workshop paper might later extend and appear as a *(full)* conference paper.
- -->
  <div style="text-align: justify">
 The following is a list of publications which I have co-authored.
 In all publications the authors are listed in alphabetical order.
 There might be some <i>"overlap"</i>, e.g., a workshop paper later extended to a conference paper.
 </div>
 
+### 2026
+- **The Voronoi Diagram of Rotating Rays with applications to Floodlight Illumination**\
+	<span style="font-variant:small-caps;">Algorithmica, Springer Nature</span>\
+	*with C. Alegría, E. Papadopoulou, M. Savić, C. Seara, and M. Suderland*\
+	<a href="https://ioannisman.github.io/files/paper_rotational_journal.pdf">[paper]</a>
+	<!-- TO ADD SPRINGER LINK WHEN PUBLISHED -->
+	<!-- <a href="https://link.springer.com/article/10.1007/s00453-025-01311-1">[paper]</a> -->
 
 ### 2025
 - **The Farthest Color Voronoi Diagram in the Plane**\
-	<span style="font-variant:small-caps;">Algorithmica, Springer</span>\
+	<span style="font-variant:small-caps;">Algorithmica (87:1393-1419), Springer Nature </span>\
 	*with E. Papadopoulou, R. Silveira, and Zeyu Wang*\
 	<a href="https://link.springer.com/article/10.1007/s00453-025-01311-1">[paper]</a>
 
 
 ### 2024
 - **New Variants of Perfect Non-crossing Matchings**\
-	<span style="font-variant:small-caps;">Discrete Applied Mathematics, Elsevier (343:1-14)</span>\
+	<span style="font-variant:small-caps;">Discrete Applied Mathematics (343:1-14), Elsevier </span>\
 	*with M. Savić, and H. Schrezenmaier*\
 	<a href="https://www.sciencedirect.com/science/article/abs/pii/S0166218X23003608">[paper]</a>
 
@@ -37,7 +40,7 @@ There might be some <i>"overlap"</i>, e.g., a workshop paper later extended to a
 	*E. Papadopoulou, M. Suderland, and C. Yap*\
 	<a href="https://drops.dagstuhl.de/opus/volltexte/2022/16077/pdf/LIPIcs-SoCG-2022-69.pdf">[paper]</a>
 - **On Selecting Leaves with Disjoint Neighborhoods in Embedded Trees**\
-	<span style="font-variant:small-caps;">Discrete Applied Mathematics, Elsevier (319:141-148)</span>\
+	<span style="font-variant:small-caps;">Discrete Applied Mathematics (319:141-148), Elsevier </span>\
 	*with K. Junginger, and E. Papadopoulou*\
 	<a href="https://www.sciencedirect.com/science/article/abs/pii/S0166218X21000500">[paper]</a>
 
