@@ -10,10 +10,15 @@ Here are some of my latest news that are worth mentioning.
 
 
 ## 2025
-- ***06/06/2024***
+- ***26/12/2025***
+	Our paper *"The Voronoi Diagram of Rotating Rays with
+applications to Floodlight Illumination"* got accepted for publication in the journal <span style="font-variant:small-caps;">"Algorithmica"</span> by Springer Nature.
+- ***18/8/2025***
+	I am very excited to start a new position as an R&D Software Engineer, with a focus on algorithm development, in <a href="https://www.planlabs.com">Planlabs</a>, a Zurich based startup working on construction technology.
+- ***06/06/2025***
 	The paper <a href="https://link.springer.com/article/10.1007/s00453-025-01311-1">*"The Farthest Color Voronoi Diagram in the Plane"*</a> has been published.
 - ***09/04/2025***
-	Our paper *"The Farthest Color Voronoi Diagram in the Plane"* got accepted for publication in the journal <span style="font-variant:small-caps;">"Algorithmica"</span> by Springer.
+	Our paper *"The Farthest Color Voronoi Diagram in the Plane"* got accepted for publication in the journal <span style="font-variant:small-caps;">"Algorithmica"</span> by Springer Nature.
 
 
 ## 2024
@@ -21,9 +26,7 @@ Here are some of my latest news that are worth mentioning.
 	The paper <a href="https://www.sciencedirect.com/science/article/abs/pii/S0166218X23003608">*"New variants of Perfect Non-crossing Matchings"*</a> has been published.
 
 
-## 2023
-- ***17/09/2023***
-	Our paper *"New variants of Perfect Non-crossing Matchings"* got accepted for publication in the journal <span style="font-variant:small-caps;">"Discrete Applied Mathematics"</span> by Elsevier.
+
 
 
 
@@ -31,6 +34,10 @@ Here are some of my latest news that are worth mentioning.
 <summary>Archived News</summary>
 
 <br>
+
+## 2023
+- ***17/09/2023***
+	Our paper *"New variants of Perfect Non-crossing Matchings"* got accepted for publication in the journal <span style="font-variant:small-caps;">"Discrete Applied Mathematics"</span> by Elsevier.
 
 ## 2022
 - ***1/12/2022***
