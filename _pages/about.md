@@ -9,13 +9,6 @@ redirect_from:
 ---
 
 <div style="text-align: justify">
-<!--
-Grown up in the beautiful town of Chalkida, I came to study Computer Science, and oddly enough (?) to enjoy it.
-So, after completing my undergraduate studies in Athens, and my graduate studies in Nice, I moved to Lugano, in Ticino, the italian-speaking part of Switzerland.
-I am currently pursuing a PhD degree at Università della Svizzera italiana (USI), in the <a href="http://compgeom.inf.usi.ch">group of Prof. Papadopoulou</a>, and I spend most of my time doing research.
-My main research interest lies in algorithm design with a focus on Computational Geometry.
-In simple terms, I like to find efficient solutions for Computer Science related problems, which usually have some geometric twist.
-When I don't work or travel, you will find me around Ticino enjoying the mountains, some wine or some polenta!<br>-->
 Grown up in the beautiful town of Chalkida, I came to study Computer Science and to actually become passionate about it.
 So, after completing my undergraduate studies in Athens, and my graduate studies in Nice, I moved to Lugano, in Ticino, Switzerland.
 There I spent a few years doing research at Università della Svizzera italiana (USI), for which I was awarded a PhD degree.
@@ -39,7 +32,10 @@ You can also read my <a href="https://ioannisman.github.io/news/">latest news</a
 
 Work experience
 ======
-- 	**Leica Geosystems part of Hexagon, Switzerland**\
+- 	**Planlabs, Zurich, Switzerland**\
+  	<span style="font-variant:small-caps;">R&D Software Engineer</span>\
+  	August 2025 - ongoing
+- 	**Leica Geosystems part of Hexagon, St. Gallen, Switzerland**\
   	<span style="font-variant:small-caps;">R&D Software Engineer</span>\
   	Decemeber 2022 - April 2025
 - 	**Hellenic Army, Greece & Cyprus**\
