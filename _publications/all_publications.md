@@ -43,6 +43,9 @@ There might be some <i>"overlap"</i>, e.g., a workshop paper later extended to a
 	<span style="font-variant:small-caps;">Discrete Applied Mathematics (319:141-148), Elsevier </span>\
 	*with K. Junginger, and E. Papadopoulou*\
 	<a href="https://www.sciencedirect.com/science/article/abs/pii/S0166218X21000500">[paper]</a>
+- **Problems on Planar Voronoi Diagrams**\
+	<span style="font-variant:small-caps;">PhD Thesis, Università della Svizzera italiana, (Switzerland) </span>\
+	<a href="https://sonar.ch/global/documents/320920">[paper]</a>
 
 
 ### 2021
@@ -96,6 +99,6 @@ There might be some <i>"overlap"</i>, e.g., a workshop paper later extended to a
 	*with L. Di Puglia Pugliese, R. Figueiredo, Y. Hayel, T. Jimenez, and M. C. Santos*\
 	<a href="https://ioannisman.github.io/files/paper_orange_report.pdf">[paper]</a>
 - **The Subset Interconnection Design problem with Subset Uncertainty**\
-	<span style="font-variant:small-caps;">Technical report (INRIA Sophia-Antipolis, France)</span>\
+	<span style="font-variant:small-caps;">Master Thesis, INRIA Sophia-Antipolis (France)</span>\
 	*with D. Coudert, and C. Caillouet*\
 	<a href="https://ioannisman.github.io/files/paper_susid_thesis.pdf">[paper]</a>
