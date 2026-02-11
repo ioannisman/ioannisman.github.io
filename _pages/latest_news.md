@@ -21,19 +21,17 @@ applications to Floodlight Illumination"* got accepted for publication in the jo
 	Our paper *"The Farthest Color Voronoi Diagram in the Plane"* got accepted for publication in the journal <span style="font-variant:small-caps;">"Algorithmica"</span> by Springer Nature.
 
 
-## 2024
-- ***30/01/2024***
-	The paper <a href="https://www.sciencedirect.com/science/article/abs/pii/S0166218X23003608">*"New variants of Perfect Non-crossing Matchings"*</a> has been published.
-
-
-
-
-
 
 <details markdown="1">
 <summary>Archived News</summary>
 
 <br>
+
+
+## 2024
+- ***30/01/2024***
+	The paper <a href="https://www.sciencedirect.com/science/article/abs/pii/S0166218X23003608">*"New variants of Perfect Non-crossing Matchings"*</a> has been published.
+
 
 ## 2023
 - ***17/09/2023***

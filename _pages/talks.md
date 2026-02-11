@@ -1,8 +1,8 @@
 ---
 permalink: /talks/
 title: "Talks"
-redirect_from: 
-  - /talks/
+author_profile: true
+redirect_from:
   - /talks.html
 ---
 

@@ -1,8 +1,8 @@
 ---
 permalink: /teaching/
 title: "Teaching"
-redirect_from: 
-  - /teaching/
+author_profile: true
+redirect_from:
   - /teaching.html
 ---
 
