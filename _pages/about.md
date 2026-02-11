@@ -9,26 +9,32 @@ redirect_from:
 ---
 
 <div style="text-align: justify">
-Grown up in the beautiful town of Chalkida, I came to study Computer Science and to actually become passionate about it.
-So, after completing my undergraduate studies in Athens, and my graduate studies in Nice, I moved to Lugano, in Ticino, Switzerland.
-There I spent a few years doing research at Università della Svizzera italiana (USI), for which I was awarded a PhD degree.
-Afterwards, I took a small break and joined the Hellenic Army to fulfill my military obligations, compulsory for all Greek nationals.
-Lately, I moved to the Rhine Valley, in the canton of St. Gallen, Switzerland, where I am working as an R&D Software Engineer at Leica Geosystems, part of Hexagon.
+<p>
+Grown up in the beautiful town of Chalkida, I came to study Computer Science and (eventually) became genuinely passionate about it.
+After completing my undergraduate studies at the <a href="https://www.di.uoa.gr/en">University of Athens</a>, Greece, and my graduate studies at <a href="https://polytech.univ-cotedazur.eu/">Polytech Nice</a>, France, I moved to Lugano, in Ticino, Switzerland.
+There, I spent several years doing research at <a href="https://www.usi.ch/en">Università della Svizzera italiana</a>, where I was awarded a PhD degree.
+After that, I spent a few years in St. Gallen working as an R&D Software Engineer at <a href="https://leica-geosystems.com">Leica Geosystems</a>, focusing mainly on software engineering and building reliable systems.
+Currently, I live in Zurich, Switzerland, where I work as an R&D Engineer at <a href="https://www.planlabs.com">Planlabs</a>, focusing on algorithm development and turning optimization ideas into practical, scalable solutions.
+</p>
 
-<br>
-Research-wise my main interest lies in algorithm design, that is, to come up with efficient solutions for Computer Science related problems.
-I am particularly keen on problems having a geometric twist and on optimization problems.
-Apart from designing algorithms, I enjoy hiking, kayaking and traveling in general.
-<br>
+<p>
+At work, I'm currently part of a small cross-functional startup team at Planlabs, building an automated design platform for building technology planning—my focus is efficient algorithm development and scalable software engineering for optimized, reliable solutions.
+In my free time, you can also find me tackling algorithmic and optimization challenges—sometimes as small research explorations, sometimes as hands-on real-world problem solving.
+</p>
 
-<br>
+<p>
+Beyond engineering, I enjoy staying active and exploring new places. I love hiking, kayaking, and traveling in general, and I've been involved in sports for many years.
+I also enjoy participating in—and sometimes organizing—community and social initiatives.
+</p>
+
+<p>
 Following, there is a short description of my education and work experience.
 There is also a list of my <a href="https://ioannisman.github.io/publications/">publications</a>, and my <a href="https://ioannisman.github.io/talks/">talks</a> and <a href="https://ioannisman.github.io/teaching/">teaching activities</a> related with my stay as a PhD candidate at USI.
-You can also read my <a href="https://ioannisman.github.io/news/">latest news</a> which I try to keep up to date!<br>
-<br>
+You can also read my <a href="https://ioannisman.github.io/news/">latest news</a> which I try to keep up to date!
+</p>
 </div>
 
-
+---
 
 Work experience
 ======

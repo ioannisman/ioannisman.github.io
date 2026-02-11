@@ -34,4 +34,4 @@ The following is a list of talks I have given in conferences and workshops durin
 - **On Selecting Leaves with Disjoint Neighborhoods in Embedded Trees**\
 	<span style="font-variant:small-caps;">5th International Conference on Algorithms and Discrete Applied Mathematics</span>\
  	*14/2/2019 @ Kharagpur, India*\
- 	<a href="https://ioannisman.github.io/files/combinatorial_caldam.pdf">[slides]</a>	
+ 	<a href="https://ioannisman.github.io/files/combinatorial_caldam.pdf">[slides]</a>

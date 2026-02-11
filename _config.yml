@@ -84,8 +84,8 @@ author:
   name              : "R&D Software Engineer, PhD"
   avatar           : "ioannis.jpg"
   bio              : |
-                      - Software Engineering</br>
                       - Algorithm Design</br>
+                      - Software Engineering</br>
                       - Mountains & Rivers
   bio2              : |
                       </br>
@@ -94,7 +94,7 @@ author:
                       <i>Σὰ βγεῖς στὸν πηγαιμὸ γιὰ τὴν Ἰθάκη, νὰ εὔχεσαι νἆναι μακρὺς ὁ δρόμος, γεμάτος περιπέτειες, γεμάτος γνώσεις.</i></br>
                       <font color = "Gray"><i>As you set out for Ithaka, hope your road is a long one, full of adventure, full of discovery.</i></font></br>
                       <font face = "Comic sans MS" size ="2">Ithaka, Constantine P. Cavafy</font><br />
-  location         : "St. Gallen, Switzerland"
+  location         : "Zurich, Switzerland"
   employer         : #"USI"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=1a3YanoAAAAJ"
@@ -105,9 +105,9 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : #"https://www.facebook.com/dopec1"
+  facebook         :
   foursquare       :
-  github           : #"academicpages"
+  github           : "ioannisman"
   google_plus      :
   keybase          :
   instagram        :
