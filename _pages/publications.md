@@ -14,7 +14,7 @@ There might be some <i>"overlap"</i>, e.g., a workshop paper later extended to a
 
 ### 2026
 - **The Voronoi Diagram of Rotating Rays with applications to Floodlight Illumination**\
-	<span style="font-variant:small-caps;">Algorithmica, Springer Nature</span>\
+	<span style="font-variant:small-caps;">Algorithmica (88:2-27), Springer Nature</span>\
 	*with C. Alegría, E. Papadopoulou, M. Savić, C. Seara, and M. Suderland*\
 	<a href="https://ioannisman.github.io/files/paper_rotational_journal.pdf">[paper]</a>
 	<!-- TO ADD SPRINGER LINK WHEN PUBLISHED -->

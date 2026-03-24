@@ -39,7 +39,7 @@ You can also read my <a href="https://ioannisman.github.io/news/">latest news</a
 Work experience
 ======
 - 	**Planlabs, Zurich, Switzerland**\
-  	<span style="font-variant:small-caps;">R&D Software Engineer</span>\
+  	<span style="font-variant:small-caps;">Algorithm Engineer</span>\
   	August 2025 - ongoing
 - 	**Leica Geosystems part of Hexagon, St. Gallen, Switzerland**\
   	<span style="font-variant:small-caps;">R&D Software Engineer</span>\

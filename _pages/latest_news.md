@@ -9,14 +9,20 @@ redirect_from:
 Here are some of my latest news that are worth mentioning.
 
 
+## 2026
+- ***09/03/2026***
+	Our paper <a href="https://link.springer.com/article/10.1007/s00453-025-01368-y">*"The Voronoi Diagram of Rotating Rays wit applications to Floodlight Illumination"*</a> has been published.
+- ***07/03/2026***
+	Our paper *"Interactive Uniform Floodlight Illumination and Rotating Rays Voronoi diagrams"* got accepted in the <span style="font-variant:small-caps;">"35th International Computational Geometry Media Exposition"</span>, part of the <span style="font-variant:small-caps;">"Computational Geometry Week 2026"</span> taking place in NJ, USA.
+
+
 ## 2025
 - ***26/12/2025***
-	Our paper *"The Voronoi Diagram of Rotating Rays with
-applications to Floodlight Illumination"* got accepted for publication in the journal <span style="font-variant:small-caps;">"Algorithmica"</span> by Springer Nature.
+	Our paper *"The Voronoi Diagram of Rotating Rays with applications to Floodlight Illumination"* got accepted for publication in the journal <span style="font-variant:small-caps;">"Algorithmica"</span> by Springer Nature.
 - ***18/8/2025***
-	I am very excited to start a new position as an R&D Software Engineer, with a focus on algorithm development, in <a href="https://www.planlabs.com">Planlabs</a>, a Zurich based startup working on construction technology.
+	I am very excited to start a new position as an Algorithm Engineer, with a focus on algorithm development, in <a href="https://www.planlabs.com">Planlabs</a>, a Zurich based startup working on construction technology.
 - ***06/06/2025***
-	The paper <a href="https://link.springer.com/article/10.1007/s00453-025-01311-1">*"The Farthest Color Voronoi Diagram in the Plane"*</a> has been published.
+	Our paper <a href="https://link.springer.com/article/10.1007/s00453-025-01311-1">*"The Farthest Color Voronoi Diagram in the Plane"*</a> has been published.
 - ***09/04/2025***
 	Our paper *"The Farthest Color Voronoi Diagram in the Plane"* got accepted for publication in the journal <span style="font-variant:small-caps;">"Algorithmica"</span> by Springer Nature.
 
@@ -30,7 +36,7 @@ applications to Floodlight Illumination"* got accepted for publication in the jo
 
 ## 2024
 - ***30/01/2024***
-	The paper <a href="https://www.sciencedirect.com/science/article/abs/pii/S0166218X23003608">*"New variants of Perfect Non-crossing Matchings"*</a> has been published.
+	Our paper <a href="https://www.sciencedirect.com/science/article/abs/pii/S0166218X23003608">*"New variants of Perfect Non-crossing Matchings"*</a> has been published.
 
 
 ## 2023
@@ -45,7 +51,7 @@ applications to Floodlight Illumination"* got accepted for publication in the jo
 	My PhD thesis titled *"Problems on Planar Voronoi Diagrams"* is published. You can download it <a href="https://susi.usi.ch/documents/320920/files/2022INF003.pdf">here</a>.
 
 - ***15/10/2022***
-	The paper <a href="https://www.sciencedirect.com/science/article/abs/pii/S0166218X21000500">*"On selecting a fraction of leaves with disjoint neighborhoods in a plane tree"*</a> has been published.
+	Our paper <a href="https://www.sciencedirect.com/science/article/abs/pii/S0166218X21000500">*"On selecting a fraction of leaves with disjoint neighborhoods in a plane tree"*</a> has been published.
 
 - ***14/3/2022***
 	Our paper *"Subdivision Methods for Sum-Of-Distances Problems: Fermat-Weber Point, n-Ellipses and the Min-Sum Cluster Voronoi Diagram"* got accepted in the <span style="font-variant:small-caps;">"38th International Symposium on Computational Geometry: Media Exposition"</span> taking place in Berlin, Germany.
