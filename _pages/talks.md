@@ -1,10 +1,16 @@
 ---
 permalink: /talks/
-title: "Talks"
+title: "Talks & Teaching"
 author_profile: true
 redirect_from:
   - /talks.html
+  - /teaching/
+  - /teaching.html
 ---
+
+The following lists talks and teaching activities from my time as a PhD candidate at Università della Svizzera italiana.
+
+## Talks
 
 The following is a list of talks I have given in conferences and workshops during my time as a PhD candidate.
 
@@ -35,3 +41,11 @@ The following is a list of talks I have given in conferences and workshops durin
 	<span style="font-variant:small-caps;">5th International Conference on Algorithms and Discrete Applied Mathematics</span>\
  	*14/2/2019 @ Kharagpur, India*\
  	<a href="https://ioannisman.github.io/files/combinatorial_caldam.pdf">[slides]</a>
+
+## Teaching
+
+During my stay at Università della Svizzera italiana as a PhD candidate, I have been a teaching assistant in the following courses.
+- **Algorithms and Data Structures 2**\
+	Academic years: 16-17, 17-18, 18-19, 19-20, 20-21
+- **Algorithms and Data Structures**\
+	Academic years: 17-18, 18-19, 19-20

@@ -29,7 +29,7 @@ I also enjoy participating in—and sometimes organizing—community and social 
 
 <p>
 Following, there is a short description of my education and work experience.
-There is also a list of my <a href="https://ioannisman.github.io/publications/">publications</a>, and my <a href="https://ioannisman.github.io/talks/">talks</a> and <a href="https://ioannisman.github.io/teaching/">teaching activities</a> related with my stay as a PhD candidate at USI.
+There is also a list of my <a href="https://ioannisman.github.io/publications/">publications</a>, and my <a href="https://ioannisman.github.io/talks/">talks and teaching activities</a> related with my stay as a PhD candidate at USI.
 You can also read my <a href="https://ioannisman.github.io/news/">latest news</a> which I try to keep up to date!
 </p>
 </div>
