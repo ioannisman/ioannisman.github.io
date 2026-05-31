@@ -10,8 +10,11 @@ Here are some of my latest news that are worth mentioning.
 
 
 ## 2026
+
+- ***04/06/2026***
+	Our paper <a href="https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.SoCG.2026.98">*"Interactive Uniform Floodlight Illumination and Rotating Rays Voronoi diagrams"*</a> was presented at the Media Exposition of the <a href="https://cgweek26.computational-geometry.org">*"Computational Geometry Week 2026"*</a>, which took place in New Jersey, USA, by my colleague Marko Savić.
 - ***09/03/2026***
-	Our paper <a href="https://link.springer.com/article/10.1007/s00453-025-01368-y">*"The Voronoi Diagram of Rotating Rays wit applications to Floodlight Illumination"*</a> has been published.
+	Our paper <a href="https://link.springer.com/article/10.1007/s00453-025-01368-y">*"The Voronoi Diagram of Rotating Rays with applications to Floodlight Illumination"*</a> has been published.
 - ***07/03/2026***
 	Our paper *"Interactive Uniform Floodlight Illumination and Rotating Rays Voronoi diagrams"* got accepted in the <span style="font-variant:small-caps;">"35th International Computational Geometry Media Exposition"</span>, part of the <span style="font-variant:small-caps;">"Computational Geometry Week 2026"</span> taking place in NJ, USA.
 

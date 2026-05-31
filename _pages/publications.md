@@ -13,17 +13,20 @@ There might be some <i>"overlap"</i>, e.g., a workshop paper later extended to a
 </div>
 
 ### 2026
+- **Interactive Uniform Floodlight Illumination and Rotating Rays Voronoi Diagrams**\
+	<span style="font-variant:small-caps;">42nd International Symposium on Computational Geometry: Media Exposition (New Jersey, USA)</span>\
+	*with C. Alegría, M. Savić, and M. Suderland*\
+	<a href="https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.SoCG.2026.98">[paper]</a>
+
 - **The Voronoi Diagram of Rotating Rays with applications to Floodlight Illumination**\
 	<span style="font-variant:small-caps;">Algorithmica (88:2-27), Springer Nature</span>\
 	*with C. Alegría, E. Papadopoulou, M. Savić, C. Seara, and M. Suderland*\
-	<a href="https://ioannisman.github.io/files/paper_rotational_journal.pdf">[paper]</a>
-	<!-- TO ADD SPRINGER LINK WHEN PUBLISHED -->
-	<!-- <a href="https://link.springer.com/article/10.1007/s00453-025-01311-1">[paper]</a> -->
+	<a href="https://link.springer.com/article/10.1007/s00453-025-01368-y">[paper]</a>
 
 ### 2025
 - **The Farthest Color Voronoi Diagram in the Plane**\
 	<span style="font-variant:small-caps;">Algorithmica (87:1393-1419), Springer Nature </span>\
-	*with E. Papadopoulou, R. Silveira, and Zeyu Wang*\
+	*with E. Papadopoulou, R. Silveira, and Z. Wang*\
 	<a href="https://link.springer.com/article/10.1007/s00453-025-01311-1">[paper]</a>
 
 
