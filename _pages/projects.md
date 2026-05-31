@@ -6,4 +6,4 @@ redirect_from:
   - /projects.html
 ---
 
-Coming soon.
+Coming soon...
