@@ -10,21 +10,19 @@ redirect_from:
 
 <div style="text-align: justify">
 <p>
-Grown up in the beautiful town of Chalkida, I came to study Computer Science and (eventually) became genuinely passionate about it.
-After completing my undergraduate studies at the <a href="https://www.di.uoa.gr/en">University of Athens</a>, Greece, and my graduate studies at <a href="https://polytech.univ-cotedazur.eu/">Polytech Nice</a>, France, I moved to Lugano, in Ticino, Switzerland.
-There, I spent several years doing research at <a href="https://www.usi.ch/en">Università della Svizzera italiana</a>, where I was awarded a PhD degree.
-After that, I spent a few years in St. Gallen working as an R&D Software Engineer at <a href="https://leica-geosystems.com">Leica Geosystems</a>, focusing mainly on software engineering and building reliable systems.
-Currently, I live in Zurich, Switzerland, where I work as an R&D Engineer at <a href="https://www.planlabs.com">Planlabs</a>, focusing on algorithm development and turning optimization ideas into practical, scalable solutions.
+I am an R&D Engineer at <a href="https://www.planlabs.com">Planlabs</a> in Zurich, developing algorithmic software for automated building technology planning. I have a PhD in Computer Science and specialize in algorithm design, optimization, and software development.
 </p>
 
 <p>
-At work, I'm currently part of a small cross-functional startup team at Planlabs, building an automated design platform for building technology planning—my focus is efficient algorithm development and scalable software engineering for optimized, reliable solutions.
-In my free time, you can also find me tackling algorithmic and optimization challenges—sometimes as small research explorations, sometimes as hands-on real-world problem solving.
+My academic background gave me a strong foundation in algorithms and computational geometry, while my industry experience has sharpened my ability to turn ideas into well-engineered software systems, primarily using C++ and Python.
 </p>
 
 <p>
-Beyond engineering, I enjoy staying active and exploring new places. I love hiking, kayaking, and traveling in general, and I've been involved in sports for many years.
-I also enjoy participating in—and sometimes organizing—community and social initiatives.
+I enjoy working across the full development cycle: understanding the problem, designing the algorithmic approach, implementing it cleanly, testing it carefully, and deploying it in production. I am especially interested in problems where analytical thinking, geometric reasoning, optimization, and software engineering meet.
+</p>
+
+<p>
+Outside engineering, I have competed internationally in sports, served in the military, and taken part in community initiatives. These experiences have shaped the way I work: with resilience, adaptability, collaboration, and a desire to contribute meaningfully.
 </p>
 
 <p>
