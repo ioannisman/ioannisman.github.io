@@ -9,11 +9,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks & Teaching"
-    url: /talks/
-
   - title: "Latest news"
     url: /posts/
+
+  - title: "More"
+    url: /more/
 
 #  - title: "News"
 #    url: /teaching/
